@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sejam bem-vindos, me chamo Ylana, sou Desenvolvedora FrontEnd. Venho estudado de forma autonôma ao longo de um ano e meio, até entrar no Reprograma, onde pude melhorar e desenvolver muitas habilidades. Gosto de fazer desafios, principalmente os que envolvam estilização, então, a maioria dos meus repositórios são de desafios.
+Sejam bem-vindos, me chamo Ylana, sou Desenvolvedora FrontEnd. Estou em transição de carreira, me especializei no Desenvolvimento Web no Frontend. 
 
 <!--
 **ylanaportela/ylanaportela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
