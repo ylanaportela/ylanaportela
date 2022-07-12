@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sejam bem-vindos, me chamo Ylana, sou Desenvolvedora FrontEnd. Estou em transição de carreira, me especializei no Desenvolvimento Web no Frontend. 
+Sejam bem-vindos, me chamo Ylana, sou Desenvolvedora FrontEnd. Estou em transição de carreira, me especializei em React.js. 
 
 <!--
 **ylanaportela/ylanaportela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
